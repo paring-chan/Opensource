@@ -8,7 +8,7 @@
 
 ## 복제방법
 ```
-$ git clone https://github.com/Djs-godbot/opensource
+$ git clone https://github.com/Pigbot-official/opensource
 
 $ cd opensource
 
